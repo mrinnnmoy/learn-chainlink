@@ -14,3 +14,15 @@
         <li>Make the data available by putting it in a smart contracts's storage.</li>
     </li>
 </ul>
+
+<p>Types of Oracles.</p>
+<ul>
+    <li>Centralised Oracles.</li>
+    <li>Decentralised Oracles.</li>
+</ul>
+
+<p>Smart contract to fetch BTC price using Chinalink Oracles.</p>
+<ul>
+    <li>The smart contract for fetching the price is written in "demo.sol", written in remix IDE and deployed using Metamask using Sepolia test network.
+    </li>
+</ul>
